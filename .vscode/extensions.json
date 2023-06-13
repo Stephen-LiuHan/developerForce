@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "financialforce.lana",
+    "oderwat.indent-rainbow",
+    "salesforce.salesforcedx-vscode-core",
+    "salesforce.salesforcedx-vscode-expanded",
+    "MS-CEINTL.vscode-language-pack-ja",
+    "streetsidesoftware.code-spell-checker",
+    "medo64.render-crlf",
+    "DoCode.vscode-remove-final-newlines"
+  ]
+}
